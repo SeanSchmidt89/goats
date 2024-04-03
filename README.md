@@ -6,8 +6,8 @@ Repo for the Raspberry Pi Project for team Goats
 
 ### Projects
 
-- Password Hash Cracker
-- Password Hasher
+- Password Hash Cracker - Renee
+- Password Hasher - Byron
 
 ### Staff
 
