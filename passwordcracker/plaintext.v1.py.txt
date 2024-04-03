@@ -1,0 +1,10 @@
+import hashlib
+
+# Prompt the user to enter a password
+plain_text_password = input("Enter the plain text password: ")
+
+# Hash the password using SHA-256
+hashed_password = hashlib.sha256(plain_text_password.encode()).hexdigest()
+
+# Print the hashed password
+print("Hashed password:", hashed_password)
